@@ -70,6 +70,7 @@
           "thread_id": 1,
           "timestamp": "2019-04-04 00:00:00",
           "creator_id": 2,
+          "content": "hello i have 200 iq",
           "has_parent": false,
           "parent_id": null,
           "children": [],
