@@ -18,6 +18,25 @@
         1
       ],
       "my_replies": []
+    },
+    {
+      "user_id": 2,
+      "username": "200IQMan",
+      "join_timestamp": "2016-09-02 05:00:00",
+      "karma": -123,
+      "gold": 0,
+      "my_votes": [
+        {
+          "thread_id": 1,
+          "reply_id": null,
+          "timestamp": "2018-04-02 06:00:00",
+          "vote_type": "downvote"
+        }
+      ],
+      "my_threads": [],
+      "my_replies": [
+        1
+      ]
     }
   ],
   "tags": [
