@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "user_id": 1,
+      "username": "joe",
+      "join_timestamp": "2016-09-02 05:00:00",
+      "karma": 420,
+      "gold": 3,
+      "my_votes": [
+        {
+          "thread_id": 1,
+          "reply_id": null,
+          "timestamp": "2018-04-02 06:00:00",
+          "vote_type": "upvote"
+        }
+      ],
+      "my_threads": [
+        1
+      ],
+      "my_replies": []
+    }
+  ],
+  "tags": [
+    {
+      "tag_name": "company",
+      "creator_id": 1,
+      "timestamp": "2017-10-04 09:42:53"
+    },
+    {
+      "tag_name": "ipo",
+      "creator_id": 1,
+      "timestamp": "2017-10-04 09:42:58"
+    }
+  ],
+  "threads": [
+    {
+      "thread_id": 1,
+      "title": "ipo",
+      "media": "https://www.google.com",
+      "timestamp": "2018-04-03 05:59:59",
+      "creator_id": 1,
+      "tags": [
+        "company",
+        "ipo"
+      ],
+      "karma": 4,
+      "gold": 0,
+      "replies": [
+        {
+          "reply_id": 1,
+          "thread_id": 1,
+          "timestamp": "2019-04-04 00:00:00",
+          "creator_id": 2,
+          "has_parent": false,
+          "parent_id": null,
+          "children": [],
+          "upvote_count": 4000,
+          "downvote_count": 3999,
+          "gold": 0
+        }
+      ]
+    }
+  ]
+}
